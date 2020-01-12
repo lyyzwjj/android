@@ -145,8 +145,9 @@ freeline/
 freeline_project_description.json
 
 # fastlane (自动化打包框架)
-fastlane/report.xml
-fastlane/Preview.html
+fastlane/report.xmlfastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+.idea
